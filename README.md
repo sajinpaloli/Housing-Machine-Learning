@@ -124,8 +124,6 @@
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please fork the repository and submit a pull request if you would like to contribute.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Acknowledgments</h2>
 <ul>
